@@ -1,0 +1,4 @@
+ Your remote Git location should look like similar to this: git@github.com:Username/repository-name.git.
+ 
+ https://github.com/usmgao/test1.git
+ git@github.com:usmgao/test1.git
